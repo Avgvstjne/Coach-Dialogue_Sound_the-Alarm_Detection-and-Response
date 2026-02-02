@@ -1,7 +1,7 @@
 # Coach-Dialogue_Sound_the-Alarm_Detection-and-Response
 ---
 
-[Incident Handler's Journal entries](./docs/Incident-handlers-journal-several-entries.pdf)
+[Incident Handler's Journal entries](Incident-handlers-journal-several-entries.pdf)
 
 ---
 
